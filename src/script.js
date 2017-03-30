@@ -3,4 +3,4 @@ let team =  'P.N.D.';
 const FAMILY = "asheychik";
 let step = "kkkk";
 
-let step = "1231ы";
+let pol = "1231ы";

@@ -16,7 +16,7 @@
     "build": "^0.1.4"
   },
   "scripts": {
-    "build": "babel src -d dist --presets es2015",
+    "build": "babel src/script -d dist/script --presets es2015",
     "watch": "babel src -d dist --presets es2015 -w"
   },
   "keywords": [],
