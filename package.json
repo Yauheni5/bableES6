@@ -17,7 +17,7 @@
   },
   "scripts": {
     "build": "babel src/script -d dist/script --presets es2015",
-    "watch": "babel src -d dist --presets es2015 -w"
+    "watch": "babel src/script -d dist/script --presets es2015 -w"
   },
   "keywords": [],
   "author": "",

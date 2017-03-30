@@ -6,3 +6,4 @@ var FAMILY = "asheychik";
 var step = "kkkk";
 
 var pol = "1231ы";
+var post = "hello";
